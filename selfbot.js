@@ -19,10 +19,9 @@ const chalk = require('chalk')
 // true : les commandes sont publiques
 
 
-//NTEwNzk0MTU5Nzc5NzQxNzEy.DuB6eA.wDvZ1Jx9JkFMsoSdpdCFvtcmj8c
- //MjI4OTY2NjE0OTAzNjg1MTIw.DpvQvg.Ne5hJwoW91S2nN3aMthTSNQxT7E
 
-const token = "NTEwNzk0MTU5Nzc5NzQxNzEy.DuB6eA.wDvZ1Jx9JkFMsoSdpdCFvtcmj8c";
+
+const token = "";
 var linkStream = "http://twitch.tv/ReSsAuX";
 var txtStream = " Selfbot ";
 var public = false;
